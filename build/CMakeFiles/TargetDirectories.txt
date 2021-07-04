@@ -1,0 +1,3 @@
+/home/nguyen/Visual-Studio-Workspace/simple_contour/build/CMakeFiles/rebuild_cache.dir
+/home/nguyen/Visual-Studio-Workspace/simple_contour/build/CMakeFiles/region_separation.dir
+/home/nguyen/Visual-Studio-Workspace/simple_contour/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nguyen/Visual-Studio-Workspace/simple_contour/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/region_separation.dir/region_separation.cpp.o -c /home/nguyen/Visual-Studio-Workspace/simple_contour/region_separation.cpp",
+  "file": "/home/nguyen/Visual-Studio-Workspace/simple_contour/region_separation.cpp"
+}
+]
